@@ -1,13 +1,13 @@
 # Site settings
-title: Globien Interlingu
-SEOTitle: Globien - Makes Communication Easier
+title: 香港803熱綫資訊公佈網
+SEOTitle: 舉報暴徒專用
 header-img: img/post-bg-desk.jpg
-email: globien@outlook.com
-description: "Easy to learn, no more hard work to recite vocabulary."
-keyword: "Constructed Language, Ligua Franca, Interlingua, Globien"
-url: "https://globien.github.io"          # your host, for absolute URL
+email: alfredolph@outlook.com
+description: ""
+keyword: ""
+url: "https://jqadolph.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/globien/globien.github.io.git" # you code repository
+github_repo: "https://github.com/jqadolph/jqadolph.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
