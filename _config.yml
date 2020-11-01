@@ -1,9 +1,9 @@
 # Site settings
 title: 香港803熱綫資訊公佈網
-SEOTitle: 舉報暴徒專用
+SEOTitle: 香港803熱綫資訊公佈網
 header-img: img/post-bg-desk.jpg
 email: alfredolph@outlook.com
-description: ""
+description: "舉報暴徒專用"
 keyword: ""
 url: "https://jqadolph.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
